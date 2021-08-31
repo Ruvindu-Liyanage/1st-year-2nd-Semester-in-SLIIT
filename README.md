@@ -1,1 +1,1 @@
-# 1st-year-2nd-Semester-in-SIIT
+# 1st-year-2nd-Semester-in-SLIIT
