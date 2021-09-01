@@ -35,11 +35,11 @@ class Calculate {
 
 void Check_rate(float x)
 {
-    if(x>=0 || x<=100)
+    if(x>=0 && x<=100)
       System.out.println("Below Normal");
-      else if(x>100 || x<=200)
+      else if(x>100 && x<=200)
       System.out.println("Normal");
-      else  if(x>200 || x<=300)
+      else  if(x>200 && x<=300)
       System.out.println("Above Average");
       else  if(x>300)
       System.out.println("High");
